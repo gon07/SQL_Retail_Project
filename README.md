@@ -22,15 +22,14 @@ Proyecto de base de datos relacional aplicados a un **caso real** de negocio (re
 
 ## 🧱 Estructura del proyecto
 
-
 sql-retail-project/
-	- schema.sql: Definición de la base de datos
-	- data.sql: Datos de prueba
-	- queries.sql: Consultas SQL intermedias
-	- procedures.sql: Stored Procedures
-	- triggers.sql: Triggers
-	- der.png: Diagrama Entidad-Relación (DER)	
-	- README.md: Documentación
+├── schema.sql      # Definición de la base de datos
+├── data.sql        # Datos de prueba
+├── queries.sql     # Consultas SQL intermedias
+├── procedures.sql  # Stored Procedures
+├── triggers.sql    # Triggers
+├── der.png         # Diagrama Entidad-Relación (DER)
+└── README.md       # Documentación
 
 ---
 
